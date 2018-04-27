@@ -1,9 +1,2 @@
-# Please adjust this metadata about your repo:
-
-# The responsible team:
-X-Zalando-Team: <your radical agility team id> 
-
-# The type of content in the repository:
+X-Zalando-Team: loungemobile
 X-Zalando-Type: code
-
-# Note that some Zappr configuration options are disabled on GHE.
